@@ -7,7 +7,7 @@ DocTest
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    如何使用sphinx创建github_文档
