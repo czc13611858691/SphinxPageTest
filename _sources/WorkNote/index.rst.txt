@@ -3,15 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-DocTest
+workNote
 ===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   如何使用sphinx创建github_文档
-   WorkNote/index
+   test
 
 
 
